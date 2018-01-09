@@ -8,3 +8,4 @@ def count_vowels(word):
     return a_counts + e_counts + i_counts + o_counts + u_counts
 
 print(count_vowels("aovvouOucvicIIOveeOIclOeuvvauouuvciOIsle"))
+print(count_vowels("aaassseefffgggiiijjjoOOkkkuuuu"))
